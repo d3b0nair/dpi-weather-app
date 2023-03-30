@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dpi-weather-app/static/css/main.013203d8.css",
+    "main.js": "/dpi-weather-app/static/js/main.69dceed2.js",
+    "static/js/787.5dbab893.chunk.js": "/dpi-weather-app/static/js/787.5dbab893.chunk.js",
+    "index.html": "/dpi-weather-app/index.html",
+    "main.013203d8.css.map": "/dpi-weather-app/static/css/main.013203d8.css.map",
+    "main.69dceed2.js.map": "/dpi-weather-app/static/js/main.69dceed2.js.map",
+    "787.5dbab893.chunk.js.map": "/dpi-weather-app/static/js/787.5dbab893.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013203d8.css",
+    "static/js/main.69dceed2.js"
+  ]
+}
